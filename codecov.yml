@@ -1,12 +1,3 @@
 codecov:
-  token: "74eeb5ce-063e-49ef-92d3-99d46f0da605"
-  bot: "codecov-io"
   ci:
-    - "travis.org"
-  strict_yaml_branch: "master"
-  max_report_age: 24
-  disable_default_path_fixes: no
-  require_ci_to_pass: yes
-  notify:
-    after_n_builds: 2
-    wait_for_ci: yes
+    - travis.org
