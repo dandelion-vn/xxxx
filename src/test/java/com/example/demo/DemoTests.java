@@ -11,4 +11,3 @@ class DemoTests {
     System.out.println("hello");
   }
 }
-

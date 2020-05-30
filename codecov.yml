@@ -2,7 +2,7 @@ codecov:
   bot: "codecov-bot-cc"
   ci:
     - travis.org
-  strict_yaml_branch: "master"
+  strict_yaml_branch: "x"
   max_report_age: 24
   disable_default_path_fixes: no
   require_ci_to_pass: yes
